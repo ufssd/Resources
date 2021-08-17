@@ -5,7 +5,7 @@ This is an unofficial copy of the constitution for the Society of Software
 Developers. The official, binding version of the constitution is available on
 [GatorConnect](https://orgs.studentinvolvement.ufl.edu/Organization/society-of-software-developers).
 
-Last modified on September 12, 2018.
+Last modified on August 17, 2021.
 
 ***
 
@@ -100,9 +100,8 @@ retribution, retaliation, or harassment.
     accordance with the approved budget as authorized by the organization.
  4. The Program Officer is responsible for the content and execution of
     organization activities such as meetings, workshops, and events.
- 5. The Development Officer is responsible for maintaining organization projects
-    such as the website and overseeing student-sponsored projects.
- 6. The Communications Officer is responsible for managing communication,
+ 5. The Involvement Officer is responsible for maintaining organization projects, overseeing member-sponsored projects and broader internal communications. They ensure members are staying active and engaged by gauging feedback during and after meetings.
+ 6. The Outreach Officer is responsible for managing communication,
     presence, outreach, social media, and interactions with external
     organizations.
 
