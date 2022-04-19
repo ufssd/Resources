@@ -5,7 +5,7 @@ This is an unofficial copy of the constitution for the Society of Software
 Developers. The official, binding version of the constitution is available on
 [GatorConnect](https://orgs.studentinvolvement.ufl.edu/Organization/society-of-software-developers).
 
-Last modified on August 17, 2021.
+Last modified on April 17, 2022.
 
 ***
 
@@ -91,19 +91,14 @@ retribution, retaliation, or harassment.
 #### Section A. Elected Officers
 
  1. The President shall preside at all meetings of the organization and shall
-    coordinate the work of the officers and committees.
+    coordinate the work of the officers and committees. They are responsible for the content and execution of
+    organization activities such as meetings, workshops, and events.
  2. The Vice-President shall serve as an aide to the President and shall perform
     the duties of the President in her/his absence or inability to serve.
- 3. The Logistics Officer (Treasurer) is responsible for handling backend
-    planning, administration, and finance. As the Treasurer, they shall keep an
-    accurate record of receipts and expenditures and pay out local funds in
-    accordance with the approved budget as authorized by the organization.
- 4. The Program Officer is responsible for the content and execution of
-    organization activities such as meetings, workshops, and events.
+ 3. The Logistics Officer (Treasurer) is responsible for handling backend planning, administration, and finance. As the Treasurer, they shall keep an accurate record of receipts and expenditures and pay out local funds in accordance with the approved budget as authorized by the organization.
+ 4. The Program Officer plans and fine-tunes a curriculum on a semester-basis that aligns with the organization's mission.
  5. The Involvement Officer is responsible for maintaining organization projects, overseeing member-sponsored projects and broader internal communications. They ensure members are staying active and engaged by gauging feedback during and after meetings.
- 6. The Outreach Officer is responsible for managing communication,
-    presence, outreach, social media, and interactions with external
-    organizations.
+ 6. The Outreach Officer is responsible for managing communication, presence, outreach, social media, and interactions with external organizations.
 
 #### Section B. Appointed Officers
 
@@ -138,16 +133,13 @@ officer may be appointed.
 
 #### Section A. Dates
 
-Elections for will occur during the second to last meeting of the Spring
-semester (April/May). Officer positions for the summer semester will be selected
-from the outgoing spring and incoming fall officers, holding an election where
-necessary.
+Elections for will occur during the last official meeting of the Spring semester (typically in April). Officer positions for the summer semester will be selected from the outgoing spring and incoming fall officers, holding an election where necessary.
+
+If a majority of the officers deem it necessary, the organization will hold a complete election of all positions during the last official meeting of the Fall semester (typically in December). An example of why this may be done is if the president or a significant portion of officers are graduating in the Fall.
 
 #### Section B. Eligibility
 
-A candidate must be a member of the organization prior to the election and shall
-submit a written statement of interest for the positions they’re interested in
-subject to approval.
+A candidate must be a member of the organization prior to the election and shall submit a written statement of interest to the club email address ufssd.org@gmail.com for the positions they’re interested in subject to approval.
 
 #### Section C. Process
 
